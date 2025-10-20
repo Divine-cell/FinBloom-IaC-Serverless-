@@ -1,0 +1,8 @@
+bucket = "statefilebucket286"
+frontend_s3_bucket = "finbloombucket56"
+domain = "www.finbloom.work.gd"
+dbusername = "finbloomadmin"
+pass = "finbloom123"
+lambda_backend_zip = "lambda-backend-zip123"
+ami = "ami-0baf59b626295c4bd"
+key_name = "test-key"
